@@ -1,3 +1,4 @@
+
 CREATE DATABASE election_db;
 USE election_db;
 
